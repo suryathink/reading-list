@@ -109,3 +109,7 @@ A guy commented on it saying [Paste the comment].
 Brainstorm 10 [Tone of the reply (optional)] replies that I can give to him.
 ```
 
+
+
+
+1. [I Tried Upwork For 30 Days](https://freedium.cfd/medium.com/@hammadhassan1/i-tried-upwork-for-30-days-17239e75c6b1)
