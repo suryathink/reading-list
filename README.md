@@ -1,3 +1,7 @@
+# React 
+1. [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+
+
 # Articles to Read
 
 1. [Prioritizing Resources Reduces JS Loading Time by 67%](https://freedium.cfd/medium.com/@Choco23/prioritizing-resources-reduces-js-loading-time-by-67-8139053444b5)
